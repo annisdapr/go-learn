@@ -1,7 +1,3 @@
-	var value, isExist = chicken["mei"]
+package main
 
-	if isExist {
-		fmt.Println(value)
-	} else {
-		fmt.Println("item is not exists")
-	}
+import "fmt"
