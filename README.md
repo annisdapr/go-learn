@@ -10,4 +10,4 @@ The full material can be accessed at:
 📌 **Note:**  
 The exercises are written in Indonesian.  
 
-This branch contains Go exercises for **Chapter B. Pemrograman Web Go Dasar**, from point **1 - to be announced**.  
+This branch contains Go exercises for **Chapter B. Pemrograman Web Go Dasar**, from point **1 - 23**.  
